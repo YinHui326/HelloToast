@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 03 00:29:09 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\User\\HelloToast\\android-fundamentals-apps-v2-master\\HelloToast\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
